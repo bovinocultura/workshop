@@ -626,13 +626,13 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-t74CIfRyhO .navbar {
-  background: #c0ffcb;
+  background: #92ffa5;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-t74CIfRyhO .navbar-dropdown.bg-color.transparent.opened {
-  background: #c0ffcb;
+  background: #92ffa5;
 }
 .cid-t74CIfRyhO a {
   font-style: normal;
@@ -723,7 +723,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-t74CIfRyhO .dropdown .dropdown-menu {
-  background: #c0ffcb;
+  background: #92ffa5;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1035,9 +1035,6 @@ section.lazy-placeholder:after {
 .cid-t74oEVIT5v .mbr-section-btn {
   color: #232323;
 }
-#hrblock-block-6 hr {
-  margin: 0;
-}
 .cid-t74qMc1IuW {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1053,19 +1050,28 @@ section.lazy-placeholder:after {
 .cid-t74qMc1IuW H1 {
   color: #00730b;
 }
-.cid-t74N2aVm7J {
+.cid-t752DGejiG {
   padding-top: 90px;
   padding-bottom: 90px;
   background-color: #c0ffcb;
 }
-.cid-t74N2aVm7J P {
-  color: #767676;
+.cid-t752DGejiG .title {
+  margin-bottom: 2rem;
 }
-.cid-t74N2aVm7J .mbr-text,
-.cid-t74N2aVm7J .mbr-section-btn {
+.cid-t752DGejiG .mbr-section-subtitle {
   color: #232323;
 }
-.cid-t74N2aVm7J H1 {
+.cid-t752DGejiG a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-t752DGejiG a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-t752DGejiG textarea.form-control {
+  min-height: 188px;
+}
+.cid-t752DGejiG H2 {
   color: #00730b;
 }
 .cid-t74Au126f2 {
@@ -1074,7 +1080,7 @@ section.lazy-placeholder:after {
   background-color: #00730b;
 }
 .cid-t74vOpgdVH {
-  background-color: #c0ffcb;
+  background-image: url("../../../assets/images/design-sem-nome-1-1080x1080.png");
 }
 .cid-t74vOpgdVH P {
   color: #767676;
@@ -1092,13 +1098,13 @@ section.lazy-placeholder:after {
   background-color: #00730b;
 }
 .cid-t74CIfRyhO .navbar {
-  background: #c0ffcb;
+  background: #92ffa5;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-t74CIfRyhO .navbar-dropdown.bg-color.transparent.opened {
-  background: #c0ffcb;
+  background: #92ffa5;
 }
 .cid-t74CIfRyhO a {
   font-style: normal;
@@ -1189,7 +1195,7 @@ section.lazy-placeholder:after {
   padding-bottom: 0;
 }
 .cid-t74CIfRyhO .dropdown .dropdown-menu {
-  background: #c0ffcb;
+  background: #92ffa5;
   visibility: hidden;
   display: block;
   position: absolute;
@@ -1491,17 +1497,28 @@ section.lazy-placeholder:after {
 .cid-t74CIfRyhO .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-t74Ubolbsf {
-  background-color: #c0ffcb;
+.cid-t752okr4EG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/design-sem-nome-1-1080x1080.png");
 }
-.cid-t74Ubolbsf P {
-  color: #767676;
+.cid-t752okr4EG .title {
+  margin-bottom: 2rem;
 }
-.cid-t74Ubolbsf .mbr-text,
-.cid-t74Ubolbsf .mbr-section-btn {
+.cid-t752okr4EG .mbr-section-subtitle {
   color: #232323;
 }
-.cid-t74Ubolbsf H1 {
+.cid-t752okr4EG a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-t752okr4EG a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-t752okr4EG textarea.form-control {
+  min-height: 188px;
+}
+.cid-t752okr4EG H2 {
   color: #00730b;
 }
 .cid-t74Au126f2 {
